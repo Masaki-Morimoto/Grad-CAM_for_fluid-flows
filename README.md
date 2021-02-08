@@ -38,4 +38,3 @@ The code is written for educational clarity and not for speed.
 - pandas
 - matplotlib
 - cv2
-- tqdm
