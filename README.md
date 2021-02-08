@@ -5,6 +5,9 @@ This repository contains the simple source codes of "Generalization techniques o
 A CNN-MLP type neural network is trained to estimate drag force coefficient of cylinder wake from its vorticity field.
 The Grad-CAM map indicates the region around a cylinder surface is highly responsible for the estimation.
 
+Though the provided code is for the scalar output regression problem, it can be easily extended for a network with two-dimensional output as demonstrated in our [arXiv](https://arxiv.org/abs/2011.11911).
+The core code ('def grad_cam') is common for the networks with both scalar and two-dimensional output.
+
 Vorticity field             |  Grad-CAM map
 :-------------------------:|:-------------------------:
 ![alt text](https://github.com//Masaki-Morimoto/Grad-CAM_for_fluid-flows/blob/images/vorticity.png?raw=true)  |  ![alt text](https://github.com//Masaki-Morimoto/Grad-CAM_for_fluid-flows/blob/images/grad-cam.png?raw=true)
