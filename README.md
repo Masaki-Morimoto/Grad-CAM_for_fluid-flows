@@ -6,7 +6,7 @@ A CNN-MLP type neural network is trained to estimate drag force coefficient of c
 The Grad-CAM map indicates the region around a cylinder surface is highly responsible for the estimation.
 
 Although the provided code is for the scalar output regression problem, it can be easily extended for a network with two-dimensional output as demonstrated in our [arXiv](https://arxiv.org/abs/2011.11911).
-The core code ('def grad_cam') is common for the networks with both scalar and two-dimensional output.
+The core code ('def grad_cam') is common among both types of networks; with scalar or two-dimensional output.
 
 Vorticity field             |  Grad-CAM map
 :-------------------------:|:-------------------------:
