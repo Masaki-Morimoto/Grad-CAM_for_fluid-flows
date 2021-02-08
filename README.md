@@ -13,7 +13,7 @@ Vorticity field             |  Grad-CAM map
 
 ## Information
 
-Author: Masaki Morimoto (Keio University)
+Author: Masaki Morimoto ([Keio University](https://kflab.jp/ja/))
 
 This repository contains
 
