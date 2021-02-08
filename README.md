@@ -32,3 +32,6 @@ The code is written for educational clarity and not for speed.
 - tensorflow
 - numpy
 - pandas
+- matplotlib
+- cv2
+- tqdm
