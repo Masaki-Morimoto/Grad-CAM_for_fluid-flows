@@ -20,7 +20,7 @@ Author: Masaki Morimoto ([Keio University](https://kflab.jp/ja/))
 
 This repository contains
 
-Grad-CAM_for_CDprediction_cylinder.ipynb
+Grad-CAM_for_CD-prediction_cylinder.ipynb
 
 For citations, please use the reference below:
 
