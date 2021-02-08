@@ -9,7 +9,7 @@ Vorticity field             |  Grad-CAM map
 :-------------------------:|:-------------------------:
 ![alt text](https://github.com//Masaki-Morimoto/Grad-CAM_for_fluid-flows/blob/images/vorticity.png?raw=true)  |  ![alt text](https://github.com//Masaki-Morimoto/Grad-CAM_for_fluid-flows/blob/images/grad-cam.png?raw=true)
 
-<div style="text-align: center;">Vorticity field of a cylinde wake (input data) and its Grad-CAM map of the force coefficient estimation.</div>
+<div style="text-align: center;">Vorticity field of a cylinder wake (input data) and its Grad-CAM map of the force coefficient estimation.</div>
 
 ## Information
 
@@ -25,3 +25,10 @@ M. Morimoto, K. Fukami, K. Zhang, and K. Fukagata "Generalization techniques of 
 Authors provide no guarantees for this code.
 Use as-is and for academic research use only; no commercial use allowed without permission.
 The code is written for educational clarity and not for speed.
+
+## Requirements
+- Python 3.X
+- keras
+- tensorflow
+- numpy
+- pandas
