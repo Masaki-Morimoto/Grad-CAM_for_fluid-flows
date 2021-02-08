@@ -22,6 +22,7 @@ Grad-CAM_for_CDprediction_cylinder.ipynb
 For citations, please use the reference below:
 
 M. Morimoto, K. Fukami, K. Zhang, and K. Fukagata "Generalization techniques of neural networks for fluid flow estimation," arXiv:2011.11911 (2020).
+
 Authors provide no guarantees for this code.
 Use as-is and for academic research use only; no commercial use allowed without permission.
 The code is written for educational clarity and not for speed.
