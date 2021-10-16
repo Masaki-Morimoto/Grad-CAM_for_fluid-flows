@@ -24,7 +24,7 @@ Grad-CAM_for_CD-prediction_cylinder.ipynb
 
 For citations, please use the reference below:
 
-Masaki Morimoto, Kai Fukami, Kai Zhang, and Koji Fukagata "Generalization techniques of neural networks for fluid flow estimation," arXiv:2011.11911 (2020).
+Masaki Morimoto, Kai Fukami, Kai Zhang, and Koji Fukagata "Generalization techniques of neural networks for fluid flow estimation," Neural Computing and Applications, arXiv:2011.11911 (2021).
 
 Authors provide no guarantees for this code.
 Use as-is and for academic research use only; no commercial use allowed without permission.
