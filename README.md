@@ -1,6 +1,6 @@
 ## Gradient-based Class Activation Mapping (Grad-CAM) for fluid flow regression problems
 
-This repository contains a simple source code utilized in a part of "Generalization techniques of neural networks for fluid flow estimation," arXiv:2011.11911 [physics.flu-dyn.].
+This repository contains a simple source code utilized in a part of "Generalization techniques of neural networks for fluid flow estimation," Neural Computing and Applications, 2021, arXiv:2011.11911 [physics.flu-dyn.].
 
 A CNN-MLP type neural network is trained to estimate drag force coefficient of cylinder wake from its vorticity field.
 The Grad-CAM map indicates the region around a cylinder surface is highly responsible for the estimation.
